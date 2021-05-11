@@ -1,67 +1,63 @@
-.container{       
+#container{       
     width: 1000px;
     height: 300px;
 }
 
-.div1{
+div{
     float: left;
+}
+
+#div1{
     width: calc(8/10 * 100%);
     height: 10%;
     background: #2dcc70;
 }
 
-.div2{
-    float: left;
+#div2{  
     width: calc(2/10 * 100%);
     height: 10%;
     background: #297fb8;    
 }
 
-.div3{
+#div3{
     float: left;
     width: calc(4/12 * 100%);
     height: 40%;
     background: #e84c3d;    
 }
 
-.div4{
-    float: left;
+#div4{
     width: calc(4/12 * 100%);
     height: 20%;
     background: #e67f22;
 }
 
-.div5{
-    float: left;
+#div5{
     width: calc(4/12 * 100%);
     height: 20%;
     background: #95a5a5;    
 }
 
-.div6{
-    float: left;
+#div6{ 
     width: calc((100% - 4/12 * 100%)/3);  
     height: 20%;
     background: #f39c11;
     
 }
 
-.div7{
-    float: left;
+#div7{   
     width: calc((100% - 4/12 * 100%)/3);  
     height: 20%;
     background: #16a086;
 }
 
-.div8{
-    float: left;
+#div8{
     width: calc((100% - 4/12 * 100%)/3); 
     height: 20%;
     background: #d25400;
 }
 
-.div9{
-    float: left;
+#div9{
     width: 100%;
     height: 50%;
     background: #2d3e50;    
